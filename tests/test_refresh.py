@@ -9,7 +9,7 @@ class ParserTests(unittest.TestCase):
     def test_codes_and_amount_not_confused(self):
         o=parse('walgreens',sample(),NOW)[0]
         self.assertEqual((o['code'],o['discount'],o['minimum']),('OCT20','20%',50))
-        self.assertEqual(o['pr_status'],'pending_checkout')
+        self.assertEqual(o['pr_status'],'unverified')
         self.assertEqual(o['expires_at'],'2026-11-01T04:59:59+00:00')
     def test_excludes_pr_not_every_us_offer_is_local(self):
         self.assertEqual(parse('walgreens',sample(terms='Not available in PR.'),NOW),[])

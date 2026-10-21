@@ -1,0 +1,1 @@
+{"retailers":[{"id":"walgreens","name":"Walgreens","enabled":true,"reference_store":{"number":677,"city":"Cayey","territory":"PR","url":"https://www.walgreens.com/locator/walgreens-5800+ave+jesus+t+pinero-cayey-pr-00736/id=677"}},{"id":"walmart","name":"Walmart","enabled":false},{"id":"cvs","name":"CVS","enabled":false}]}

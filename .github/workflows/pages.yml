@@ -1,4 +1,4 @@
-name: Actualizar códigos y publicar
+name: Actualizar ofertas PR y publicar
 on:
   push:
     branches: [main]
@@ -28,13 +28,13 @@ jobs:
         with:
           node-version: '22'
       - run: pip install -r requirements.txt
-      - name: Probar fechas, exclusiones y filtros
+      - name: Probar regiones, canales, precios, fechas y filtros
         run: |
           python -m unittest discover -s tests -v
           node --test tests/catalog.test.mjs
           node --input-type=module --check < app.js
           node --check sw.js
-      - name: Consultar fuentes oficiales
+      - name: Consultar shopper PR, cupones, códigos y políticas
         id: refresh
         continue-on-error: true
         run: python scripts/refresh.py
@@ -44,7 +44,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add offers.json
           if ! git diff --cached --quiet; then
-            git commit -m "Actualizar códigos y estado de fuentes oficiales"
+            git commit -m "Actualizar ofertas PR y estado de fuentes oficiales"
             git push
           fi
       - run: python scripts/build.py

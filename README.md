@@ -1,30 +1,56 @@
-# Peseteando PR
-
-PWA de códigos de descuento para iPhone y Android. Catálogo, copia de códigos, categorías, búsqueda, ordenación y favoritos locales. Sin cuenta, Supabase ni APIs de pago.
+# Peseteando PR · v2
 
 **App:** https://fravier3.github.io/Peseteando/
 
-## Datos y Puerto Rico
+PWA para iPhone y Android. Ofertas presenciales de Walgreens Puerto Rico, cupones que requieren activación, códigos online, favoritos y búsqueda. Conserva la URL y el almacenamiento local de la versión anterior. Sin cuenta propia, backend ni APIs de pago.
 
-Fuentes públicas oficiales:
-- https://www.walgreens.com/promotion/offer-details
-- https://photo.walgreens.com/store/deals
+## Uso y verificación regional
 
-Solo se extraen códigos promocionales literales con descuento y vencimiento explícitos. No se convierten IDs de cupones en códigos. Se excluyen términos que indiquen que no aplica en Puerto Rico. **La ausencia de exclusión no demuestra aceptación en PR:** todos los códigos se identifican como «Confirmar en PR» hasta que se prueben en un carrito con tienda/dirección de PR. No se ha realizado esa comprobación. Las fechas se interpretan con la zona America/Chicago y se presentan en hora de Puerto Rico. Se exige año explícito; nunca se renueva un código vencido cambiando el año.
+El catálogo principal solo muestra `pr_status=official_pr`. El botón **Sin verificar** conserva las promociones de las fuentes generales que no tienen evidencia regional. La ausencia de una exclusión de PR no demuestra disponibilidad local.
 
-Se guardan códigos, nombres, descuento, compra mínima detectable, condiciones resumidas, imagen cuando la fuente la publica, URL, fecha de revisión y hash de evidencia. Los términos completos se consultan en Walgreens. Las fotos son del servicio promocionado; los códigos generales usan una ilustración de compra, no una foto de un producto concreto. El importador no interpreta todas las condiciones posibles: antes de comprar, consultar los términos enlazados.
+- **Usar en tienda:** ofertas del shopper regional y cupones Walgreens IVC publicados con contexto explícito PR y canje POS.
+- **Comprar online:** códigos de Walgreens.com o Photo. No se anuncian como códigos que se dictan a la cajera.
+- **Recoger en tienda:** únicamente cuando los términos del código especifican pickup. Es una compra hecha online; el descuento se aplica antes de recoger.
+- **Activar cupón:** enlace a Walgreens para guardar el cupón en la cuenta oficial; guardar un favorito en Peseteando no lo activa.
+- **Kiosco de fotos:** canal adicional cuando los términos lo permiten; no es la caja de productos generales.
+
+`official_pr` verifica publicación o condiciones regionales, no inventario ni un canje realizado. `redemption_tested` es falso en todas las ofertas actuales. Los precios, fotos, formatos y cantidades vienen de la fuente. No se inventa una fotografía de producto para un código general. Cuando no hay precio o presentación individual, se indica o se enlaza al grupo de artículos elegibles. Las recompensas futuras y cupones adicionales no se restan del precio anunciado.
+
+## Fuentes y adaptadores
+
+1. Códigos: https://www.walgreens.com/promotion/offer-details
+2. Photo: https://photo.walgreens.com/store/deals
+3. Cupones: https://www.walgreens.com/offers/offers.jsp?storeid=677
+4. Shopper PR: https://www.walgreens.com/offers/offers.jsp?view=weeklyad&store_code=677
+
+`scripts/weekly.py` usa las mismas consultas públicas sin autenticación que el JavaScript del shopper de Walgreens (`PR_WAG_DWA_0.01.js`, cargado por su web). Consulta `wag-dwa-api-prod.przone.net` con la tienda de referencia **677, Cayey**. Exige `marketVersion=PR`, catálogo publicado, periodo vigente, correspondencia de catálogo en todas las colecciones y condiciones regionales legibles. Lee las colecciones activas y elimina duplicados por identidad oficial de oferta. No es una API pública documentada con garantía de estabilidad: si cambia, el adaptador falla de forma visible y conserva datos recientes hasta 48 horas.
+
+El shopper actual excluye #156, #217, #16409 y #21201. Estas exclusiones se extraen de sus condiciones en cada actualización; no se dan por permanentes.
+
+El adaptador de cupones lee el estado JSON servido públicamente en el HTML. Verifica que `isPrStore=true` y la dirección de la tienda sea `PR`. Registra la tienda que realmente devolvió la página, porque el servicio puede ignorar el parámetro y devolver otra sucursal. Solo publica Walgreens IVC con canje POS; no transforma IDs en códigos promocionales y no promueve cupones nacionales de fabricante como canjeables en cajas de PR. La lectura pública no muestra la cuenta del usuario ni garantiza que pueda activar cada cupón.
+
+`retailers.json` prepara los IDs de otras tiendas. Solo Walgreens está activo. El nuevo icono contiene Walgreens, Walmart y CVS a petición del usuario; no implica afiliación ni ofertas activas de todas esas marcas.
+
+## Investigación del canje
+
+La guía dentro de la app, `guide.json`, está basada en:
+- Cupones y excepción expresa de PR: https://www.walgreens.com/topic/help/shophelp/coupons_help.jsp
+- Política de cupones, impresos y Register Rewards: https://www.walgreens.com/topic/help/generalhelp/coupon_policy_main.jsp
+- Membresía, teléfono y beneficios: https://www.walgreens.com/topic/help/generalhelp/mywalgreens-termsofuse.jsp
+- Pickup: https://www.walgreens.com/topic/help/pickup.jsp
+- Términos de cada promoción y del shopper PR.
+
+No se encontró autorización pública para introducir códigos online generales en cajas de Puerto Rico. No se realizaron compras de prueba. La política general de cupones no se presenta como garantía de aceptación de cualquier cupón en PR. El sistema comprueba diariamente dos reglas clave de la ayuda oficial; si desaparecen o no se pueden leer, los cupones digitales dejan de clasificarse como verificados hasta revisión. La guía mantiene su fecha de investigación; no pretende reescribir automáticamente las políticas cuando cambian.
 
 ## Actualización y publicación
 
-Un único workflow `.github/workflows/pages.yml` prueba, consulta las dos fuentes, guarda `offers.json`, prepara `dist/` y lo publica en Pages. Corre al hacer push, manualmente y a las **06:17 a. m. de Puerto Rico** (10:17 UTC). El mismo workflow publica el JSON actualizado, sin depender de que un commit del bot active otro workflow.
+Un workflow `.github/workflows/pages.yml` prueba, consulta las cuatro fuentes y las políticas, guarda `offers.json`, prepara `dist/` y publica Pages. Corre con push a `main`, manualmente y diariamente a las **06:17 a. m. de Puerto Rico** (10:17 UTC). La publicación ocurre en el mismo workflow para no depender de que los commits del bot disparen otro workflow.
 
-GitHub puede retrasar los horarios y desactivar los workflows programados de repositorios públicos después de 60 días sin actividad. Revisar Actions; reactivar el workflow y ejecutarlo manualmente si aparece deshabilitado. La automatización cubre estas dos páginas, no toda la web ni todos los códigos posibles.
+GitHub puede retrasar horarios y deshabilitar programaciones de repositorios públicos tras 60 días sin actividad. Revisar Actions y reactivar si aparece deshabilitado. Los fallos de fuente quedan visibles tanto en Actions como en la app. Solo se retienen datos revisados hace menos de 48 horas y aún vigentes. El frontend también oculta vencidas, futuras o viejas. El botón ↻ descarga el último catálogo publicado: no inicia una consulta del comercio desde el teléfono.
 
-Si una fuente falla o no hay promociones legibles, el workflow avisa y el sitio publica el estado. Solo retiene datos revisados en las últimas 48 horas que siguen vigentes. El frontend también oculta códigos vencidos o sin revisión reciente, incluso sin nueva publicación. «Actualizar» descarga el último catálogo publicado; no inicia un raspado desde el teléfono.
+HTML, JS y datos usan red primero con respaldo offline. El service worker elimina solo cachés de Peseteando. Los favoritos conservan la clave anterior y no se borran con las actualizaciones. La instalación y el refresco del icono en el sistema operativo dependen del navegador.
 
-No requiere reinstalar la PWA: HTML, JS y datos usan red primero. El service worker usa caché solo como respaldo sin conexión. Los favoritos no se borran con las actualizaciones.
-
-## Desarrollo
+## Desarrollo y validación
 
 Python 3.12+, Node 22+:
 
@@ -36,8 +62,6 @@ python scripts/refresh.py
 python scripts/build.py
 ```
 
-Para añadir fuentes o corregir un código: editar el importador y sus pruebas, verificar las condiciones originales y hacer push. Evitar editar `offers.json` manualmente: el siguiente refresco lo reemplaza. Antes de incorporar otra tienda, validar un origen público automatizable y su cobertura para PR.
+Las pruebas cubren la región, vigencia local, año y DST, deduplicación, aislamiento de promociones sin verificar, canje por canal, cupones sin código, búsqueda, favoritos y separación de recompensas frente a precios. El build solo publica archivos de la aplicación, no scripts, pruebas ni metadatos del repositorio.
 
-## Verificaciones
-
-Las pruebas cubren extracción de códigos, fechas y cambio de año, DST, exclusión de PR, deduplicación, búsqueda, favoritos y descarte de datos viejos. El workflow conserva evidencia de sus ejecuciones. Las pruebas de instalación nativa y canje real deben realizarse en los dispositivos y en Walgreens; no se presentan como efectuadas.
+Icono generado con ImageGen y exportado en 180, 192 y 512 px. El prompt pidió una composición de tarjetas de cupón con Walgreens, Walmart y CVS, una moneda de porcentaje y fondo verde oscuro; sin texto del nombre ni un teléfono de muestra.
