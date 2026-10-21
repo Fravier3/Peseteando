@@ -1,26 +1,61 @@
-name: Publicar Pages
+name: Actualizar códigos y publicar
 on:
   push:
     branches: [main]
+  schedule:
+    - cron: '17 10 * * *'
   workflow_dispatch:
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 concurrency:
-  group: pages
-  cancel-in-progress: true
+  group: peseteando-publicacion
+  cancel-in-progress: false
 jobs:
   deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: pip install -r requirements.txt
+      - name: Probar fechas, exclusiones y filtros
+        run: |
+          python -m unittest discover -s tests -v
+          node --test tests/catalog.test.mjs
+          node --input-type=module --check < app.js
+          node --check sw.js
+      - name: Consultar fuentes oficiales
+        id: refresh
+        continue-on-error: true
+        run: python scripts/refresh.py
+      - name: Guardar catálogo y estado de fuentes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add offers.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Actualizar códigos y estado de fuentes oficiales"
+            git push
+          fi
+      - run: python scripts/build.py
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: .
+          path: dist
       - id: deployment
         uses: actions/deploy-pages@v4
+      - name: Señalar errores de las fuentes
+        if: steps.refresh.outcome == 'failure'
+        run: |
+          echo "::error::Una fuente no respondió o cambió de formato. El sitio muestra su estado y oculta códigos vencidos o sin revisión reciente."
+          exit 1
