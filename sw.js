@@ -1,5 +1,5 @@
-const CACHE='peseteando-v2.0.0';
-const SHELL=['./','./index.html','./styles.css?v=2.0.0','./app.js?v=2.0.0','./catalog.mjs','./manifest.webmanifest','./guide.json','./assets/icon-v2-192.png','./assets/icon-v2-512.png'];
+const CACHE='peseteando-v2.1.0';
+const SHELL=['./','./index.html','./styles.css?v=2.1.0','./app.js?v=2.1.0','./catalog.mjs','./manifest.webmanifest','./guide.json','./assets/icon-v2-192.png','./assets/icon-v2-512.png'];
 self.addEventListener('install',e=>{e.waitUntil(caches.open(CACHE).then(c=>c.addAll(SHELL)).then(()=>self.skipWaiting()));});
 self.addEventListener('activate',e=>{e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith('peseteando-')&&k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim()));});
 self.addEventListener('fetch',e=>{const url=new URL(e.request.url);if(e.request.method!=='GET'||url.origin!==self.location.origin||!url.href.startsWith(self.registration.scope))return;

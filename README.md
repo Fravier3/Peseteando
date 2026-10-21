@@ -1,4 +1,4 @@
-# Peseteando PR · v2
+# Peseteando PR · v2.1
 
 **App:** https://fravier3.github.io/Peseteando/
 
@@ -15,6 +15,10 @@ El catálogo principal solo muestra `pr_status=official_pr`. El botón **Sin ver
 - **Kiosco de fotos:** canal adicional cuando los términos lo permiten; no es la caja de productos generales.
 
 `official_pr` verifica publicación o condiciones regionales, no inventario ni un canje realizado. `redemption_tested` es falso en todas las ofertas actuales. Los precios, fotos, formatos y cantidades vienen de la fuente. No se inventa una fotografía de producto para un código general. Cuando no hay precio o presentación individual, se indica o se enlaza al grupo de artículos elegibles. Las recompensas futuras y cupones adicionales no se restan del precio anunciado.
+
+## Filtro por sucursal
+
+El campo **Tu Walgreens** acepta el número de sucursal (1–5 dígitos) del recibo o de su ficha oficial. Lo guarda solo en este dispositivo (`peseteando.store.v1`), independientemente de los favoritos. Oculta únicamente ofertas presenciales de Walgreens que incluyan ese número en `excluded_stores`; no deduce exclusiones para compras online, otros comercios ni ofertas sin restricciones publicadas. Un número sin exclusión expresa no verifica que exista la sucursal, su inventario ni el canje. El estado vacío explica cuándo las exclusiones causan que no aparezcan ofertas. Quitar el filtro restaura las ofertas, sin borrarlas ni eliminar favoritos.
 
 ## Fuentes y adaptadores
 
