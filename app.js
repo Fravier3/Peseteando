@@ -1,4 +1,4 @@
-import {activeOffers,filteredOffers,usageLabels,normalizeStoreNumber} from './catalog.mjs';
+import {activeOffers,filteredOffers,usageLabels,normalizeStoreNumber} from './catalog.mjs?v=2.1.1';
 const $=id=>document.getElementById(id);
 const state={data:null,offers:[],mode:'all',category:'all',query:'',savedOnly:false,sort:'recommended',verification:'verified',limit:24,storeNumber:''};
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));

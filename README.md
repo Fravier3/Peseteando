@@ -1,4 +1,4 @@
-# Peseteando PR · v2.1
+# Peseteando PR · v2.1.1
 
 **App:** https://fravier3.github.io/Peseteando/
 
@@ -52,7 +52,7 @@ Un workflow `.github/workflows/pages.yml` prueba, consulta las cuatro fuentes y 
 
 GitHub puede retrasar horarios y deshabilitar programaciones de repositorios públicos tras 60 días sin actividad. Revisar Actions y reactivar si aparece deshabilitado. Los fallos de fuente quedan visibles tanto en Actions como en la app. Solo se retienen datos revisados hace menos de 48 horas y aún vigentes. El frontend también oculta vencidas, futuras o viejas. El botón ↻ descarga el último catálogo publicado: no inicia una consulta del comercio desde el teléfono.
 
-HTML, JS y datos usan red primero con respaldo offline. El service worker elimina solo cachés de Peseteando. Los favoritos conservan la clave anterior y no se borran con las actualizaciones. La instalación y el refresco del icono en el sistema operativo dependen del navegador.
+HTML, JS y datos usan red primero con respaldo offline. Las importaciones del catálogo llevan versión junto al JS y CSS para impedir que el navegador mezcle módulos de distintas publicaciones. El service worker elimina solo cachés de Peseteando. Los favoritos conservan la clave anterior y no se borran con las actualizaciones. La instalación y el refresco del icono en el sistema operativo dependen del navegador.
 
 ## Desarrollo y validación
 
