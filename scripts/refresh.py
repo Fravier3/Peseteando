@@ -95,8 +95,8 @@ def parse(source_id, markup, now=None):
         if source_id == 'photo':
             for tile in doc.xpath('//div[contains(concat(" ",normalize-space(@class)," ")," tile-l3-v1 ")]'):
                 if re.search(r'Coupon code:\s*' + re.escape(code) + r'\b',tile.text_content()):
-                    imgs = tile.xpath('.//img/@src')
-                    if imgs: image = imgs[0]
+                    imgs = tile.xpath('.//img/@data-pagespeed-lazy-src | .//img/@data-src | .//img/@src')
+                    image = next((u for u in imgs if u.startswith('https://')), '')
                     break
         offers.append({
             'id': source_id + '-' + code, 'code': code, 'title': name, 'official_title': title,

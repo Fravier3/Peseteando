@@ -1,20 +1,20 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-21T20:45:00.588482+00:00",
+  "updated": "2026-10-21T20:46:11.537254+00:00",
   "source_status": "ok",
   "sources": [
     {
       "id": "walgreens",
       "url": "https://www.walgreens.com/promotion/offer-details",
       "status": "ok",
-      "checked_at": "2026-10-21T20:45:00.588482+00:00",
+      "checked_at": "2026-10-21T20:46:11.537254+00:00",
       "count": 7
     },
     {
       "id": "photo",
       "url": "https://photo.walgreens.com/store/deals",
       "status": "ok",
-      "checked_at": "2026-10-21T20:45:00.588482+00:00",
+      "checked_at": "2026-10-21T20:46:11.537254+00:00",
       "count": 5
     }
   ],
@@ -45,7 +45,7 @@
       "pr_status": "pending_checkout",
       "pr_label": "Confirmar en PR",
       "pr_note": "La fuente no excluye expresamente a Puerto Rico. Su aceptación para tu tienda o dirección de PR aún no se ha comprobado en el carrito.",
-      "checked_at": "2026-10-21T20:45:00.588482+00:00",
+      "checked_at": "2026-10-21T20:46:11.537254+00:00",
       "evidence_hash": "2a11b900c2641300ec27010ec4116e78bb4bee81263586565d1bb789427a356b"
     },
     {
@@ -74,7 +74,7 @@
       "pr_status": "pending_checkout",
       "pr_label": "Confirmar en PR",
       "pr_note": "La fuente no excluye expresamente a Puerto Rico. Su aceptación para tu tienda o dirección de PR aún no se ha comprobado en el carrito.",
-      "checked_at": "2026-10-21T20:45:00.588482+00:00",
+      "checked_at": "2026-10-21T20:46:11.537254+00:00",
       "evidence_hash": "e8da31dbb912774dfb6eb6a72c8d3c85e108f690528fc7494bffb57710675426"
     },
     {
@@ -102,7 +102,7 @@
       "pr_status": "pending_checkout",
       "pr_label": "Confirmar en PR",
       "pr_note": "La fuente no excluye expresamente a Puerto Rico. Su aceptación para tu tienda o dirección de PR aún no se ha comprobado en el carrito.",
-      "checked_at": "2026-10-21T20:45:00.588482+00:00",
+      "checked_at": "2026-10-21T20:46:11.537254+00:00",
       "evidence_hash": "7c77f2381878121e6cf9e0136b836b94f745c1b773f62d97aeb6e9edc78a40ec"
     },
     {
@@ -131,7 +131,7 @@
       "pr_status": "pending_checkout",
       "pr_label": "Confirmar en PR",
       "pr_note": "La fuente no excluye expresamente a Puerto Rico. Su aceptación para tu tienda o dirección de PR aún no se ha comprobado en el carrito.",
-      "checked_at": "2026-10-21T20:45:00.588482+00:00",
+      "checked_at": "2026-10-21T20:46:11.537254+00:00",
       "evidence_hash": "01a3a85c40793d8d4ab4577a708fa71320aadee03ef577c13039011c6771e59b"
     },
     {
@@ -161,7 +161,7 @@
       "pr_status": "pending_checkout",
       "pr_label": "Confirmar en PR",
       "pr_note": "La fuente no excluye expresamente a Puerto Rico. Su aceptación para tu tienda o dirección de PR aún no se ha comprobado en el carrito.",
-      "checked_at": "2026-10-21T20:45:00.588482+00:00",
+      "checked_at": "2026-10-21T20:46:11.537254+00:00",
       "evidence_hash": "f6b67a0943023f057d151fa7ee2b563fb0e13dd713148fa2707687fd1acdc688"
     },
     {
@@ -189,7 +189,7 @@
       "pr_status": "pending_checkout",
       "pr_label": "Confirmar en PR",
       "pr_note": "La fuente no excluye expresamente a Puerto Rico. Su aceptación para tu tienda o dirección de PR aún no se ha comprobado en el carrito.",
-      "checked_at": "2026-10-21T20:45:00.588482+00:00",
+      "checked_at": "2026-10-21T20:46:11.537254+00:00",
       "evidence_hash": "e4c0285efe545697d5ec962661525842b4a20a01f72b58c9c504a63c1e677a2b"
     },
     {
@@ -218,7 +218,7 @@
       "pr_status": "pending_checkout",
       "pr_label": "Confirmar en PR",
       "pr_note": "La fuente no excluye expresamente a Puerto Rico. Su aceptación para tu tienda o dirección de PR aún no se ha comprobado en el carrito.",
-      "checked_at": "2026-10-21T20:45:00.588482+00:00",
+      "checked_at": "2026-10-21T20:46:11.537254+00:00",
       "evidence_hash": "4b1f2448e9875caf55dc127fe6b9691d0dd7b00d31823f1a1d442151d4a9535c"
     },
     {
@@ -237,7 +237,7 @@
       "expires_at": "2026-10-25T04:59:59+00:00",
       "source_id": "photo",
       "source": "https://photo.walgreens.com/store/deals#COZY10",
-      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "image": "https://prd-ws1-sf-cdn.wag-static.com/resources/wg-assets/images/category-page/weekly/2026/x1562_Photo_Site_Deals_Tile1.jpg.pagespeed.ic.zGZoMavpXO.jpg",
       "conditions": [
         "Requiere cuenta de Walgreens Photo. La disponibilidad del servicio depende de la tienda.",
         "Aplicar el código antes de pagar; solo en artículos o servicios elegibles.",
@@ -246,7 +246,7 @@
       "pr_status": "pending_checkout",
       "pr_label": "Confirmar en PR",
       "pr_note": "La fuente no excluye expresamente a Puerto Rico. Su aceptación para tu tienda o dirección de PR aún no se ha comprobado en el carrito.",
-      "checked_at": "2026-10-21T20:45:00.588482+00:00",
+      "checked_at": "2026-10-21T20:46:11.537254+00:00",
       "evidence_hash": "aa460dd5e1e414e5eb309c649726d614c9fef6212dcacd010de01e6248077f0f"
     },
     {
@@ -265,7 +265,7 @@
       "expires_at": "2026-10-25T04:59:59+00:00",
       "source_id": "photo",
       "source": "https://photo.walgreens.com/store/deals#OCTCARD",
-      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "image": "https://prd-ws1-sf-cdn.wag-static.com/resources/wg-assets/images/category-page/weekly/2026/x1562_Photo_Site_Deals_Tile2.jpg.pagespeed.ic.acCU6WyjJK.jpg",
       "conditions": [
         "Requiere cuenta de Walgreens Photo. La disponibilidad del servicio depende de la tienda.",
         "Aplicar el código antes de pagar; solo en artículos o servicios elegibles.",
@@ -274,7 +274,7 @@
       "pr_status": "pending_checkout",
       "pr_label": "Confirmar en PR",
       "pr_note": "La fuente no excluye expresamente a Puerto Rico. Su aceptación para tu tienda o dirección de PR aún no se ha comprobado en el carrito.",
-      "checked_at": "2026-10-21T20:45:00.588482+00:00",
+      "checked_at": "2026-10-21T20:46:11.537254+00:00",
       "evidence_hash": "1851d61ed3516a22569c093a9fa60a8d95efdedf4d730b9bd1286712c28aec42"
     },
     {
@@ -293,7 +293,7 @@
       "expires_at": "2026-10-25T04:59:59+00:00",
       "source_id": "photo",
       "source": "https://photo.walgreens.com/store/deals#ORN60",
-      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "image": "https://prd-ws1-sf-cdn.wag-static.com/resources/wg-assets/images/category-page/weekly/2026/x1562_Photo_Site_Deals_Tile6.jpg.pagespeed.ic._WB59UdGX8.jpg",
       "conditions": [
         "Requiere cuenta de Walgreens Photo. La disponibilidad del servicio depende de la tienda.",
         "Aplicar el código antes de pagar; solo en artículos o servicios elegibles.",
@@ -302,7 +302,7 @@
       "pr_status": "pending_checkout",
       "pr_label": "Confirmar en PR",
       "pr_note": "La fuente no excluye expresamente a Puerto Rico. Su aceptación para tu tienda o dirección de PR aún no se ha comprobado en el carrito.",
-      "checked_at": "2026-10-21T20:45:00.588482+00:00",
+      "checked_at": "2026-10-21T20:46:11.537254+00:00",
       "evidence_hash": "993bff1ab1585237b4e7b4fbbec93847870b770aa6fbcb6ee1b4b4d4d1599048"
     },
     {
@@ -321,7 +321,7 @@
       "expires_at": "2026-10-25T04:59:59+00:00",
       "source_id": "photo",
       "source": "https://photo.walgreens.com/store/deals#10PANEL",
-      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "image": "https://prd-ws1-sf-cdn.wag-static.com/resources/wg-assets/images/category-page/weekly/2026/x1562_Photo_Site_Deals_Tile3.jpg.pagespeed.ic.pnY_w4aMf4.jpg",
       "conditions": [
         "Requiere cuenta de Walgreens Photo. La disponibilidad del servicio depende de la tienda.",
         "Aplicar el código antes de pagar; solo en artículos o servicios elegibles.",
@@ -330,7 +330,7 @@
       "pr_status": "pending_checkout",
       "pr_label": "Confirmar en PR",
       "pr_note": "La fuente no excluye expresamente a Puerto Rico. Su aceptación para tu tienda o dirección de PR aún no se ha comprobado en el carrito.",
-      "checked_at": "2026-10-21T20:45:00.588482+00:00",
+      "checked_at": "2026-10-21T20:46:11.537254+00:00",
       "evidence_hash": "7f832cdf3562c8afd5eeb9e2368bf3de083db3e35385022959ea540d062e737d"
     },
     {
@@ -349,7 +349,7 @@
       "expires_at": "2026-10-25T04:59:59+00:00",
       "source_id": "photo",
       "source": "https://photo.walgreens.com/store/deals#LABEL70",
-      "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "image": "https://prd-ws1-sf-cdn.wag-static.com/resources/wg-assets/images/category-page/weekly/2026/x1562_Photo_Site_Deals_Tile5.jpg.pagespeed.ic.50tCx7gghe.jpg",
       "conditions": [
         "Requiere cuenta de Walgreens Photo. La disponibilidad del servicio depende de la tienda.",
         "Aplicar el código antes de pagar; solo en artículos o servicios elegibles.",
@@ -358,7 +358,7 @@
       "pr_status": "pending_checkout",
       "pr_label": "Confirmar en PR",
       "pr_note": "La fuente no excluye expresamente a Puerto Rico. Su aceptación para tu tienda o dirección de PR aún no se ha comprobado en el carrito.",
-      "checked_at": "2026-10-21T20:45:00.588482+00:00",
+      "checked_at": "2026-10-21T20:46:11.537254+00:00",
       "evidence_hash": "c029b3af3cfae5adb629bd0236ac4c3e8135f9657dc885dad52da71d07949a51"
     }
   ]

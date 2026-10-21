@@ -25,4 +25,7 @@ class ParserTests(unittest.TestCase):
         self.assertEqual(len(parse('walgreens',sample()+sample(),NOW)),1)
         page='<h5>50% OFF Everything Photo</h5><p>Must use code PHOTO50 to receive a discount. Offer expires at 11:59 p.m. CT on October 24, 2026.</p>'
         self.assertEqual(parse('photo',page,NOW)[0]['code'],'PHOTO50')
+    def test_lazy_image_uses_original_not_placeholder(self):
+        page='<div class="tile-l3-v1"><img src="data:image/gif;base64,AA" data-pagespeed-lazy-src="https://example.com/photo.jpg"><p>Coupon code: PHOTO50</p></div><h5>50% OFF Everything Photo</h5><p>Must use code PHOTO50 to receive a discount. Offer expires at 11:59 p.m. CT on October 24, 2026.</p>'
+        self.assertEqual(parse('photo',page,NOW)[0]['image'],'https://example.com/photo.jpg')
 if __name__=='__main__':unittest.main()
