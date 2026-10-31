@@ -1,34 +1,34 @@
 {
   "schema_version": 2,
-  "updated": "2026-10-30T16:43:39.331260+00:00",
+  "updated": "2026-10-31T15:46:39.331674+00:00",
   "source_status": "ok",
   "sources": [
     {
       "id": "walgreens",
       "url": "https://www.walgreens.com/promotion/offer-details",
       "status": "ok",
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "count": 8
     },
     {
       "id": "photo",
       "url": "https://photo.walgreens.com/store/deals",
       "status": "ok",
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "count": 5
     },
     {
       "id": "coupons_pr",
       "url": "https://www.walgreens.com/offers/offers.jsp?storeid=677",
       "status": "ok",
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "count": 4
     },
     {
       "id": "weekly_pr",
       "url": "https://www.walgreens.com/offers/offers.jsp?view=weeklyad&store_code=677",
       "status": "ok",
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "count": 226,
       "market": "PR",
       "reference_store": 677,
@@ -93,7 +93,7 @@
       "pr_status": "unverified",
       "pr_label": "Sin verificar en PR",
       "pr_note": "La fuente no excluye expresamente a Puerto Rico. Su aceptación para tu tienda o dirección de PR aún no se ha comprobado en el carrito.",
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "f99f4a5c2fb1a77be7c840d2a2398f9cab47a07d95bd473e43d69c5b2c6bef20"
     },
     {
@@ -140,7 +140,7 @@
       "pr_status": "unverified",
       "pr_label": "Sin verificar en PR",
       "pr_note": "La fuente no excluye expresamente a Puerto Rico. Su aceptación para tu tienda o dirección de PR aún no se ha comprobado en el carrito.",
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "2a11b900c2641300ec27010ec4116e78bb4bee81263586565d1bb789427a356b"
     },
     {
@@ -187,7 +187,7 @@
       "pr_status": "unverified",
       "pr_label": "Sin verificar en PR",
       "pr_note": "La fuente no excluye expresamente a Puerto Rico. Su aceptación para tu tienda o dirección de PR aún no se ha comprobado en el carrito.",
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "e8da31dbb912774dfb6eb6a72c8d3c85e108f690528fc7494bffb57710675426"
     },
     {
@@ -233,7 +233,7 @@
       "pr_status": "unverified",
       "pr_label": "Sin verificar en PR",
       "pr_note": "La fuente no excluye expresamente a Puerto Rico. Su aceptación para tu tienda o dirección de PR aún no se ha comprobado en el carrito.",
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "7c77f2381878121e6cf9e0136b836b94f745c1b773f62d97aeb6e9edc78a40ec"
     },
     {
@@ -281,7 +281,7 @@
       "pr_status": "unverified",
       "pr_label": "Sin verificar en PR",
       "pr_note": "La fuente no excluye expresamente a Puerto Rico. Su aceptación para tu tienda o dirección de PR aún no se ha comprobado en el carrito.",
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "01a3a85c40793d8d4ab4577a708fa71320aadee03ef577c13039011c6771e59b"
     },
     {
@@ -329,7 +329,7 @@
       "pr_status": "unverified",
       "pr_label": "Sin verificar en PR",
       "pr_note": "La fuente no excluye expresamente a Puerto Rico. Su aceptación para tu tienda o dirección de PR aún no se ha comprobado en el carrito.",
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "f6b67a0943023f057d151fa7ee2b563fb0e13dd713148fa2707687fd1acdc688"
     },
     {
@@ -375,7 +375,7 @@
       "pr_status": "unverified",
       "pr_label": "Sin verificar en PR",
       "pr_note": "La fuente no excluye expresamente a Puerto Rico. Su aceptación para tu tienda o dirección de PR aún no se ha comprobado en el carrito.",
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "e4c0285efe545697d5ec962661525842b4a20a01f72b58c9c504a63c1e677a2b"
     },
     {
@@ -422,7 +422,7 @@
       "pr_status": "unverified",
       "pr_label": "Sin verificar en PR",
       "pr_note": "La fuente no excluye expresamente a Puerto Rico. Su aceptación para tu tienda o dirección de PR aún no se ha comprobado en el carrito.",
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "4b1f2448e9875caf55dc127fe6b9691d0dd7b00d31823f1a1d442151d4a9535c"
     },
     {
@@ -470,7 +470,7 @@
       "pr_status": "unverified",
       "pr_label": "Sin verificar en PR",
       "pr_note": "La fuente no excluye expresamente a Puerto Rico. Su aceptación para tu tienda o dirección de PR aún no se ha comprobado en el carrito.",
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "9997c6e375353d2297519a3da6aab18f8ba8094a1c08cd42c4fb7ae1eeecb975"
     },
     {
@@ -517,7 +517,7 @@
       "pr_status": "unverified",
       "pr_label": "Sin verificar en PR",
       "pr_note": "La fuente no excluye expresamente a Puerto Rico. Su aceptación para tu tienda o dirección de PR aún no se ha comprobado en el carrito.",
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "2568cdef64b5c4f21d5b6a3efca3e00bd4e87c5e053cae732e98f978bd7be9db"
     },
     {
@@ -564,7 +564,7 @@
       "pr_status": "unverified",
       "pr_label": "Sin verificar en PR",
       "pr_note": "La fuente no excluye expresamente a Puerto Rico. Su aceptación para tu tienda o dirección de PR aún no se ha comprobado en el carrito.",
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "ec63b67e963dbc3b024ce713ea2865c270db3cf69edfc18c0078f6d6d4f3d197"
     },
     {
@@ -612,7 +612,7 @@
       "pr_status": "unverified",
       "pr_label": "Sin verificar en PR",
       "pr_note": "La fuente no excluye expresamente a Puerto Rico. Su aceptación para tu tienda o dirección de PR aún no se ha comprobado en el carrito.",
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "4fa59c237eec22a836b3fd9c984f96f94b0038bc81abcbcd3c909afc722bac56"
     },
     {
@@ -659,7 +659,7 @@
       "pr_status": "unverified",
       "pr_label": "Sin verificar en PR",
       "pr_note": "La fuente no excluye expresamente a Puerto Rico. Su aceptación para tu tienda o dirección de PR aún no se ha comprobado en el carrito.",
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "ec6fb268256e0d9b3c762e5a0b4e10aa970dafd07509cf96531b05de8b75abf7"
     },
     {
@@ -708,9 +708,9 @@
       "verification_level": "official_source_only",
       "redemption_tested": false,
       "stock_status": "not_checked",
-      "reference_store": "15189",
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
-      "evidence_hash": "a66e725c48867b86ecdf621f749f8b15fe50e24324a5c37d21e3b7733cc55e5e"
+      "reference_store": "9548",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
+      "evidence_hash": "a34be6207c6d3b2f201afc8f49985a4e39a9a60d0689a9babf8da0dbfce0f3af"
     },
     {
       "id": "coupon-eca6928d-faa9-4f13-90a0-621e8276df1e",
@@ -758,9 +758,9 @@
       "verification_level": "official_source_only",
       "redemption_tested": false,
       "stock_status": "not_checked",
-      "reference_store": "15189",
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
-      "evidence_hash": "7759632d6a25df9a68ca50090b6f8c40ff703788d1455b883c0717ea172ea6ef"
+      "reference_store": "9548",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
+      "evidence_hash": "d0f6b515388e531f03092f3e136aac5e2a448355257462f6cf97c189f7d34e4d"
     },
     {
       "id": "coupon-a65b25e3-5d68-475e-97e0-5869537a81d1",
@@ -808,9 +808,9 @@
       "verification_level": "official_source_only",
       "redemption_tested": false,
       "stock_status": "not_checked",
-      "reference_store": "15189",
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
-      "evidence_hash": "53de2a5a7756a1d73fedad55b0f007a779c954654d98764eabee95f523ce8bbf"
+      "reference_store": "9548",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
+      "evidence_hash": "84a356f540504e91b2e6ee7e4451fcfb41ff52348659d92e79be22fb6ceab4fc"
     },
     {
       "id": "coupon-11279292-2c26-49dd-b5c9-716ed8ae41ba",
@@ -858,9 +858,9 @@
       "verification_level": "official_source_only",
       "redemption_tested": false,
       "stock_status": "not_checked",
-      "reference_store": "15189",
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
-      "evidence_hash": "d541643ae5812072cc242dd143b0541bb7c99f62f5c80340df3b7b536849ef81"
+      "reference_store": "9548",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
+      "evidence_hash": "278afcb55c8f1af55087de09f5220747833ef6e812e05a096e3d4d47473ee2a2"
     },
     {
       "id": "weekly-919015",
@@ -917,7 +917,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "d3093ba169b2ba33865bf708b84d4a96a8867b0d81f1fe0a322d3754b6e4dd3f",
       "collection_id": "2b8f4fcf-7622-4259-bd52-e60e70254963",
       "reference_store": 677
@@ -977,7 +977,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "b132f8ca80b79ad89b852962b9fb5c92f619e1fa64ff6a432406c9a812e7fd1a",
       "collection_id": "8ab19181-ae36-4e28-ba23-d47638e836f7",
       "reference_store": 677
@@ -1037,7 +1037,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "4cda6f5c527f6c3508f72028058df18bc8bc26f9c17aa3ccf4196986f284407b",
       "collection_id": "8ab19181-ae36-4e28-ba23-d47638e836f7",
       "reference_store": 677
@@ -1096,7 +1096,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "093225e8ec5151816885f43a497dca95f40c959a3b4473e258b1abe6b33236d9",
       "collection_id": "027295ec-25ef-4af1-85d9-257c4ca47e3e",
       "reference_store": 677
@@ -1155,7 +1155,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "55a94fe96f1bee62a08f141d952dd307eaaca68da64f73af1060f7c67512b3f5",
       "collection_id": "027295ec-25ef-4af1-85d9-257c4ca47e3e",
       "reference_store": 677
@@ -1214,7 +1214,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "5fc76255502e0afa37f13a7ef09ffa4865537fba6a39be0cff93174a99fe1bc3",
       "collection_id": "027295ec-25ef-4af1-85d9-257c4ca47e3e",
       "reference_store": 677
@@ -1273,7 +1273,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "bd0b0b89ea9568b46bf8c1202a48602c27eed7b4db0d84703b09fc89047ebb45",
       "collection_id": "2b8f4fcf-7622-4259-bd52-e60e70254963",
       "reference_store": 677
@@ -1332,7 +1332,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "308f8c21dcd12c75ca5bd14a7346b2f15ce62edba3c1aecce4354e64807d5d7b",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -1391,7 +1391,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "27ebe92e9e3e2bc99d3f3e8da60dcd1d554689d1684195ec3fc0bd5f46abd2c9",
       "collection_id": "3b55bc26-8dc0-471d-a473-f19985d608a7",
       "reference_store": 677
@@ -1451,7 +1451,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "49957914f5cbb225f5ede06d626f9416626a0815ade053bbc88a3cdaf68d1ecc",
       "collection_id": "d397cd31-4376-4d10-9c14-93f45ce573f7",
       "reference_store": 677
@@ -1510,7 +1510,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "6d5be411776f79854c5e118a131c58cf95c2c930f8285c7c6b3555123a6c9043",
       "collection_id": "d397cd31-4376-4d10-9c14-93f45ce573f7",
       "reference_store": 677
@@ -1569,7 +1569,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "b91e58da16f0356ad33184a90b873ac8435aeb88e2db1f2a5384267861ce7268",
       "collection_id": "3b55bc26-8dc0-471d-a473-f19985d608a7",
       "reference_store": 677
@@ -1630,7 +1630,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "d08b1df0db0723e58e94008a84039c5fecdfef03d7ab98ffcc37ec17e164ea2f",
       "collection_id": "3b55bc26-8dc0-471d-a473-f19985d608a7",
       "reference_store": 677
@@ -1690,7 +1690,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "562379a477c2f1526e2e3a9aac4ec89b527b46c91ba152a3fa4c763e3b9653cc",
       "collection_id": "3b55bc26-8dc0-471d-a473-f19985d608a7",
       "reference_store": 677
@@ -1749,7 +1749,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "f06b7011c2459b526f62b3cec3d5eacc8f6e3af51449a831221cc20a3fc7c4dc",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -1809,7 +1809,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "117b0bc9c2753e9a6f838d0329dce3233c60b244f0a6d514d6ef2f35e8fd6646",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -1870,7 +1870,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "47ea2b97abcfed9bea2ea89f90b6d896c4c291c6945165065db4d89a8e769ace",
       "collection_id": "32365dd8-190e-429b-b580-b0b2f11dbbdc",
       "reference_store": 677
@@ -1931,7 +1931,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "13301a21d5f7ae953c770238056656a4685b68eada5bc83643a42dde10ac5aff",
       "collection_id": "32365dd8-190e-429b-b580-b0b2f11dbbdc",
       "reference_store": 677
@@ -1992,7 +1992,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "cb14b2a155383c10023f51011e2a7d5a3e4f8ac0d2aac0ef02373c0066987e65",
       "collection_id": "32365dd8-190e-429b-b580-b0b2f11dbbdc",
       "reference_store": 677
@@ -2053,7 +2053,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "ff120e3752ce7cb7f0e6c1cf3193ae22e581df376f504f536fda937a5d4915c5",
       "collection_id": "32365dd8-190e-429b-b580-b0b2f11dbbdc",
       "reference_store": 677
@@ -2113,7 +2113,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "4a098f3deee4b9cf9e92909f7b2b298142a1ffa232c095006a57d8a5b79a3113",
       "collection_id": "d397cd31-4376-4d10-9c14-93f45ce573f7",
       "reference_store": 677
@@ -2173,7 +2173,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "b9d2bc2214a33ac1ba012e3c8763cc6160a5056c372f83238128a1f282b4a82b",
       "collection_id": "de6d85bf-07eb-4b31-aaf5-ef2639b8d3f8",
       "reference_store": 677
@@ -2233,7 +2233,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "003d971ee2438c849f9ff09408ff7a98d5e13b88d8ab5d46af063887f8801166",
       "collection_id": "de6d85bf-07eb-4b31-aaf5-ef2639b8d3f8",
       "reference_store": 677
@@ -2293,7 +2293,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "282ee5290555a04dbe8973463a99310f7ad7f246e17175573868af20c010618b",
       "collection_id": "de6d85bf-07eb-4b31-aaf5-ef2639b8d3f8",
       "reference_store": 677
@@ -2353,7 +2353,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "032a2defda0419b9e3f481c5fa9f64ce959eb3fa07170774a06bb6024f59b94b",
       "collection_id": "de6d85bf-07eb-4b31-aaf5-ef2639b8d3f8",
       "reference_store": 677
@@ -2412,7 +2412,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "67f150372cff986ee5e58654382c596b0c8d66aae97f57fd32d16e2c1719edcc",
       "collection_id": "979d6ff6-37f6-40c1-b929-55ed6b753930",
       "reference_store": 677
@@ -2471,7 +2471,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "c40624b7ca57eb6b8b85d4580028ac438b5f52eae0ec5c6cde1860157f824d29",
       "collection_id": "979d6ff6-37f6-40c1-b929-55ed6b753930",
       "reference_store": 677
@@ -2530,7 +2530,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "c9d4fe0c44a45838aab86c4190bed65b6f9339c78bc47ef3381cbbe20812db42",
       "collection_id": "979d6ff6-37f6-40c1-b929-55ed6b753930",
       "reference_store": 677
@@ -2589,7 +2589,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "64df4c6108f666b05e7aa3a0599aca54fa7febb039dfb6019cac11984487db54",
       "collection_id": "979d6ff6-37f6-40c1-b929-55ed6b753930",
       "reference_store": 677
@@ -2649,7 +2649,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "1b0e956ebc5c32a3cc64c261a65a93ef27f6c51af9641fcc28b2ab3bb5661d17",
       "collection_id": "32365dd8-190e-429b-b580-b0b2f11dbbdc",
       "reference_store": 677
@@ -2709,7 +2709,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "e73f6eb9cb295545d51fce24b703802980b13fc382f9ce978fed04b851a88407",
       "collection_id": "32365dd8-190e-429b-b580-b0b2f11dbbdc",
       "reference_store": 677
@@ -2769,7 +2769,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "012f9f342dc63b3deb201d38dfa7d5f1c160284fb98d92ebe7e5f0bf4ab776b9",
       "collection_id": "1fb5e713-a0aa-46df-8984-67bcfdd6958d",
       "reference_store": 677
@@ -2829,7 +2829,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "9bfdc295ecebf6b1f7a82e0fb85f846eefd679b7d27eaba59428decfcce8efd6",
       "collection_id": "1fb5e713-a0aa-46df-8984-67bcfdd6958d",
       "reference_store": 677
@@ -2889,7 +2889,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "e02bd85dd3b188f8326dad0ee176edeb0644ace0361e49c51fd08ac38b92726c",
       "collection_id": "1fb5e713-a0aa-46df-8984-67bcfdd6958d",
       "reference_store": 677
@@ -2948,7 +2948,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "381f391894c23791c99095f347470480f4b9599405cb4a25f9ee0f9f1d51edf0",
       "collection_id": "3b55bc26-8dc0-471d-a473-f19985d608a7",
       "reference_store": 677
@@ -3007,7 +3007,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "34df4723bbbe4064c8b505e3549429135c0ec64139fe21bd45fb629fe4cb5e83",
       "collection_id": "3b55bc26-8dc0-471d-a473-f19985d608a7",
       "reference_store": 677
@@ -3066,7 +3066,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "3b474082c6aa9a6cb3170807824c87e683241b0e636ca95343ea7e9a6bf83e61",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -3125,7 +3125,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "0ff14f6289382829ce4ded28213a69aca21f055df2bbca574342b60a715c773f",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -3185,7 +3185,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "ade72ac4710d6996b38b3d823e2f97bcf71c43e9f51fcaa32daae6a1094a84b2",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -3245,7 +3245,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "dd87980e2b63eeb835d726fe6595ef5929f754780991247fe86a75a563085284",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -3304,7 +3304,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "f86e98042a47dcebda28d50afd0b71c509e8f00d3fd253b9a8e4c15dafc9c3d0",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -3363,7 +3363,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "b0457394e24bf7e29e3702f6fafd20c0500cfc4a6b33b9d9edf95582575198cf",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -3422,7 +3422,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "752140715d14b8aafd701fbe9ca5450e3e8a6f5eb7818277604a49f6a56e8d92",
       "collection_id": "d397cd31-4376-4d10-9c14-93f45ce573f7",
       "reference_store": 677
@@ -3482,7 +3482,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "599cbeea63dcb5318a953f92ffd69bd03fbacf233c63f63b6416171047d44b0c",
       "collection_id": "3b55bc26-8dc0-471d-a473-f19985d608a7",
       "reference_store": 677
@@ -3543,7 +3543,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "811259ecd219a7a3a77c54f9b3a5c0546587f6c01405eec36be57a6734157d05",
       "collection_id": "979d6ff6-37f6-40c1-b929-55ed6b753930",
       "reference_store": 677
@@ -3604,7 +3604,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "6b268b5293388205ded6894346b10eb3c16557059d2143b34a4ec66847fd8f61",
       "collection_id": "979d6ff6-37f6-40c1-b929-55ed6b753930",
       "reference_store": 677
@@ -3665,7 +3665,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "913aac9c3e0310db9869191b32dad76bc03d8094e4ccedc4b9d163ad0c7bb2f8",
       "collection_id": "979d6ff6-37f6-40c1-b929-55ed6b753930",
       "reference_store": 677
@@ -3726,7 +3726,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "0530b3d4b96707c2ab5e191939bc5232927f3503ed9c55eadf3e8286974cb4a9",
       "collection_id": "32365dd8-190e-429b-b580-b0b2f11dbbdc",
       "reference_store": 677
@@ -3787,7 +3787,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "4c206eefce2076912efe78986e2485dfa63b74426bebdccd81fdf1bb16e322c2",
       "collection_id": "32365dd8-190e-429b-b580-b0b2f11dbbdc",
       "reference_store": 677
@@ -3848,7 +3848,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "5070b0fde8286b0333c712e6ca258b5dc741cf2a7ad0a07d16bd2df9056d5f26",
       "collection_id": "32365dd8-190e-429b-b580-b0b2f11dbbdc",
       "reference_store": 677
@@ -3909,7 +3909,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "390d9ea7cb864a903b7428ba7e2461f5a130463ce1582a91807ab4e17f979039",
       "collection_id": "1fb5e713-a0aa-46df-8984-67bcfdd6958d",
       "reference_store": 677
@@ -3970,7 +3970,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "f3824b6ab1b7576df57283debf3d1583118f3df19b718ab0c5d5cd46e37d145d",
       "collection_id": "1fb5e713-a0aa-46df-8984-67bcfdd6958d",
       "reference_store": 677
@@ -4031,7 +4031,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "7594e03220d97db5544afd1d9b679515c77f1cf8194c68c0fd5b4a47b6252c7c",
       "collection_id": "1fb5e713-a0aa-46df-8984-67bcfdd6958d",
       "reference_store": 677
@@ -4091,7 +4091,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "c8f3b0eef2fcc6ad6c5b2a30e302b6e80c56285c8d8f5234d07fbc78244be928",
       "collection_id": "d397cd31-4376-4d10-9c14-93f45ce573f7",
       "reference_store": 677
@@ -4151,7 +4151,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "907dca6f2c95948e33774a6351e7b325f69f6fd9995d72fb1dbcff03ac4e8ace",
       "collection_id": "d397cd31-4376-4d10-9c14-93f45ce573f7",
       "reference_store": 677
@@ -4210,7 +4210,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "2501f66acc1973674fafcd47b8e607037045d89a56ce6cf19483c9827d93c30a",
       "collection_id": "d397cd31-4376-4d10-9c14-93f45ce573f7",
       "reference_store": 677
@@ -4269,7 +4269,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "516318a8d84686aed41ea3ce520fdf25627049639d785721b7031383c55a7137",
       "collection_id": "d397cd31-4376-4d10-9c14-93f45ce573f7",
       "reference_store": 677
@@ -4328,7 +4328,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "31da8c664dbb16248dea1b69f1103d0cb7f2c699227cae3c70895381622e9bb1",
       "collection_id": "d397cd31-4376-4d10-9c14-93f45ce573f7",
       "reference_store": 677
@@ -4388,7 +4388,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "8a281dcd71d330dd71731abafb65bddae60d0c844d4a432e7428fad5809f62d3",
       "collection_id": "d397cd31-4376-4d10-9c14-93f45ce573f7",
       "reference_store": 677
@@ -4447,7 +4447,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "26255bfd0db3270fa1127130ed6e67af611f961a2583e3f22be45e9f7e6ce11b",
       "collection_id": "d397cd31-4376-4d10-9c14-93f45ce573f7",
       "reference_store": 677
@@ -4506,7 +4506,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "9f91e363aeba521a66b9b228463a64b1b21b00d9248d8c666f44122770cf5969",
       "collection_id": "d397cd31-4376-4d10-9c14-93f45ce573f7",
       "reference_store": 677
@@ -4565,7 +4565,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "036a682d487c44c25c17c546fd0482d09e48c30ee3c951f1a9bd8521f370b7a9",
       "collection_id": "de6d85bf-07eb-4b31-aaf5-ef2639b8d3f8",
       "reference_store": 677
@@ -4626,7 +4626,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "5a94b32c9f8b8c66500815a412ec78d0c0691471dc8cf257e0810afbfca6d098",
       "collection_id": "de6d85bf-07eb-4b31-aaf5-ef2639b8d3f8",
       "reference_store": 677
@@ -4687,7 +4687,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "b145b4f6f7d7cf9823496bbef3686500d8036dbc23fa70ea97f081eeb1bfb6aa",
       "collection_id": "de6d85bf-07eb-4b31-aaf5-ef2639b8d3f8",
       "reference_store": 677
@@ -4746,7 +4746,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "160d83dea0752d9a05b8c9ee07f1e316a4580a9a5dc1837935d479b85ac20f91",
       "collection_id": "de6d85bf-07eb-4b31-aaf5-ef2639b8d3f8",
       "reference_store": 677
@@ -4806,7 +4806,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "746fd96fa33c2126d22de6b77896444f901fa64dfc94da26bcca97a41abc43bf",
       "collection_id": "de6d85bf-07eb-4b31-aaf5-ef2639b8d3f8",
       "reference_store": 677
@@ -4865,7 +4865,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "d1796b04cd0a86d3dbceeadc762c507fecad88347a78f9d4e2c0106b9c00717f",
       "collection_id": "de6d85bf-07eb-4b31-aaf5-ef2639b8d3f8",
       "reference_store": 677
@@ -4926,7 +4926,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "13331cb8728b2346a64fc83d580a8e2808ce7707bbd7baa9227f86fd7d626e39",
       "collection_id": "de6d85bf-07eb-4b31-aaf5-ef2639b8d3f8",
       "reference_store": 677
@@ -4985,7 +4985,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "dcb3896be42baeec3b0a1072126f902c97ad5f01e5a531e04d7081c9247bc406",
       "collection_id": "de6d85bf-07eb-4b31-aaf5-ef2639b8d3f8",
       "reference_store": 677
@@ -5044,7 +5044,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "a96ab49f1cd79f3e1f57073a92e7dc1c2f14f049be4d9a54582fc614a3abb62b",
       "collection_id": "de6d85bf-07eb-4b31-aaf5-ef2639b8d3f8",
       "reference_store": 677
@@ -5105,7 +5105,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "a0a55ca940daa20e7c5adc1787c162b3c38de952dc3314749d2d3c01ef24f009",
       "collection_id": "de6d85bf-07eb-4b31-aaf5-ef2639b8d3f8",
       "reference_store": 677
@@ -5166,7 +5166,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "10142db8366a4433d308681ab4ec78bf76b19b6a7892dcd9c03f3c4a1944cdd1",
       "collection_id": "de6d85bf-07eb-4b31-aaf5-ef2639b8d3f8",
       "reference_store": 677
@@ -5225,7 +5225,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "547da76c1a1eb3f4609a7fe128f136c35b657cca9d11f02a07e185d35a1ebac7",
       "collection_id": "de6d85bf-07eb-4b31-aaf5-ef2639b8d3f8",
       "reference_store": 677
@@ -5286,7 +5286,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "dc38610becf933090dc1fb0d4b6855e25d0ae28533e529906e7d99a027dc0b01",
       "collection_id": "de6d85bf-07eb-4b31-aaf5-ef2639b8d3f8",
       "reference_store": 677
@@ -5347,7 +5347,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "ec850dfceff409814ddcefb4077f975f8239ecb205e4ba0051f8e24795b7b41d",
       "collection_id": "de6d85bf-07eb-4b31-aaf5-ef2639b8d3f8",
       "reference_store": 677
@@ -5406,7 +5406,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "8b3143b5c7a4895c2af938e3d59833426c01a6199839eaf32739ed3cf225f196",
       "collection_id": "de6d85bf-07eb-4b31-aaf5-ef2639b8d3f8",
       "reference_store": 677
@@ -5467,7 +5467,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "db5bee94dd01dc3a52c6d196d35eec23c57e37189efc5e6345f5688da44677a3",
       "collection_id": "de6d85bf-07eb-4b31-aaf5-ef2639b8d3f8",
       "reference_store": 677
@@ -5526,7 +5526,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "47a264b359c7a56b93d64ee960e9dd209d2d5fc1c7ccb83202076f6557c44f04",
       "collection_id": "de6d85bf-07eb-4b31-aaf5-ef2639b8d3f8",
       "reference_store": 677
@@ -5585,7 +5585,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "bfc73b8ba635bb21cb7244dd289066ef5f88e7b075f1d349fe348145a797a8e2",
       "collection_id": "de6d85bf-07eb-4b31-aaf5-ef2639b8d3f8",
       "reference_store": 677
@@ -5644,7 +5644,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "25f439bf76b83ec55be688e4fbc5a02f6dc5be462bfa4ba045dd41aee5bb70d2",
       "collection_id": "de6d85bf-07eb-4b31-aaf5-ef2639b8d3f8",
       "reference_store": 677
@@ -5703,7 +5703,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "20242da54535fbe1f52de87a533b6f7a98b5eb715ff0bcde03f648aad3fc784c",
       "collection_id": "de6d85bf-07eb-4b31-aaf5-ef2639b8d3f8",
       "reference_store": 677
@@ -5762,7 +5762,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "52862dfd02065ff8e218d6edf8e7b89308cecbf793efaa083488a0d5710c4db1",
       "collection_id": "de6d85bf-07eb-4b31-aaf5-ef2639b8d3f8",
       "reference_store": 677
@@ -5821,7 +5821,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "fe7f1bc701e2c57d72b35ad84b1c350e1e68cfdd32fe7a54e6222dc042e64b9d",
       "collection_id": "de6d85bf-07eb-4b31-aaf5-ef2639b8d3f8",
       "reference_store": 677
@@ -5881,7 +5881,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "e6ae53c957a9352ca1214d638f8360086325e080b69cb5f5717cd6c6e9f1c822",
       "collection_id": "de6d85bf-07eb-4b31-aaf5-ef2639b8d3f8",
       "reference_store": 677
@@ -5941,7 +5941,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "8c1390b28baafa5606836c1d384c75cd256e4fcbf5bc0445db0bce917c8193f1",
       "collection_id": "de6d85bf-07eb-4b31-aaf5-ef2639b8d3f8",
       "reference_store": 677
@@ -6000,7 +6000,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "e293f4d50932cbd60fca6589a56413c1d43f0f76b7308bcdc9e6d5565b06ce31",
       "collection_id": "de6d85bf-07eb-4b31-aaf5-ef2639b8d3f8",
       "reference_store": 677
@@ -6060,7 +6060,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "e97784c1ddb764a2a011287a2c779b786f30bc629d9454b7c96fa3c1880ebcc4",
       "collection_id": "de6d85bf-07eb-4b31-aaf5-ef2639b8d3f8",
       "reference_store": 677
@@ -6120,7 +6120,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "6dcb8dd8c54236ee441408548a8badcdde4b99d68711461775639d84c9f9c39a",
       "collection_id": "de6d85bf-07eb-4b31-aaf5-ef2639b8d3f8",
       "reference_store": 677
@@ -6180,7 +6180,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "264f77a5df8a1b0c873505a0ac4ce202032497248ec75819f2b4054d94b895a9",
       "collection_id": "de6d85bf-07eb-4b31-aaf5-ef2639b8d3f8",
       "reference_store": 677
@@ -6239,7 +6239,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "78da6728977ea4e57c85972aa433a9ef03a816890f70be4430fc9f7a7f04a92e",
       "collection_id": "de6d85bf-07eb-4b31-aaf5-ef2639b8d3f8",
       "reference_store": 677
@@ -6298,7 +6298,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "36b0d02acdcafb64dd57a49b63eca94d247ce7bf85ca7568e4c45f3a04d68ae7",
       "collection_id": "979d6ff6-37f6-40c1-b929-55ed6b753930",
       "reference_store": 677
@@ -6357,7 +6357,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "a2184185283f441d8d90e420d259093d205bad2dadb6ccbfa0052a840c3e608c",
       "collection_id": "de018421-04de-4db1-b7da-7aecf71a6604",
       "reference_store": 677
@@ -6416,7 +6416,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "7b0c353726e96d038b3b8137692012ffbbf0f1b7c5307961744673d51536d464",
       "collection_id": "979d6ff6-37f6-40c1-b929-55ed6b753930",
       "reference_store": 677
@@ -6475,7 +6475,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "1f274ab55e226767cf758159469c9c54e2443e1f19c942e889cf9ac9ca131d89",
       "collection_id": "979d6ff6-37f6-40c1-b929-55ed6b753930",
       "reference_store": 677
@@ -6536,7 +6536,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "87125c5b18ffd82696ab0b0149df4d932d67dbdbaaf02b534efd3e5614397e01",
       "collection_id": "32365dd8-190e-429b-b580-b0b2f11dbbdc",
       "reference_store": 677
@@ -6597,7 +6597,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "dbbf31af7a3b9858fb3d01152d0bf778c740e8d075afacf2c053d7b3d5b463ef",
       "collection_id": "32365dd8-190e-429b-b580-b0b2f11dbbdc",
       "reference_store": 677
@@ -6658,7 +6658,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "318e3b86342ccd9776745f295c2c16ce48564dec2097f44f4ad9701c0b6575b2",
       "collection_id": "32365dd8-190e-429b-b580-b0b2f11dbbdc",
       "reference_store": 677
@@ -6719,7 +6719,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "faa44bd67066352acc0784375d5efbcb64ac1bcfabcc0e65f4d1b33fa970a208",
       "collection_id": "32365dd8-190e-429b-b580-b0b2f11dbbdc",
       "reference_store": 677
@@ -6779,7 +6779,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "c327a7921a1af4e633b4175f270359fb4475ee810dc7b42cf12f707a5871fc26",
       "collection_id": "32365dd8-190e-429b-b580-b0b2f11dbbdc",
       "reference_store": 677
@@ -6839,7 +6839,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "2573862ad56df32c2ebb59c0a16329d4f818ae9d2efb2107024303562e7f82c8",
       "collection_id": "32365dd8-190e-429b-b580-b0b2f11dbbdc",
       "reference_store": 677
@@ -6900,7 +6900,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "9c998d8905c1858615328dbf14a1108e2832f9b99694a41848e16642459ab701",
       "collection_id": "32365dd8-190e-429b-b580-b0b2f11dbbdc",
       "reference_store": 677
@@ -6960,7 +6960,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "40a52f0711b29ebf3cfed5072756d194cbb02e09ff82d0b83a0163ad5bf33060",
       "collection_id": "32365dd8-190e-429b-b580-b0b2f11dbbdc",
       "reference_store": 677
@@ -7019,7 +7019,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "45d35b3678b94e3f17973159af8b3bbd450bb158f647a3ebdde7809745eb62ed",
       "collection_id": "32365dd8-190e-429b-b580-b0b2f11dbbdc",
       "reference_store": 677
@@ -7079,7 +7079,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "0891b77c342a7790af67fea3d7c2df9e4e05da5610e84f433387c761a778f095",
       "collection_id": "32365dd8-190e-429b-b580-b0b2f11dbbdc",
       "reference_store": 677
@@ -7139,7 +7139,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "360ab414d34085016f59a9e97b3e0463967a911cafa14b1ebcbbf3dd39942739",
       "collection_id": "32365dd8-190e-429b-b580-b0b2f11dbbdc",
       "reference_store": 677
@@ -7199,7 +7199,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "7f2cc5ccb661bd1c31527935013c6c58bd2f22afd8ac8d2902f68c5bad178587",
       "collection_id": "32365dd8-190e-429b-b580-b0b2f11dbbdc",
       "reference_store": 677
@@ -7259,7 +7259,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "6610ba8166507672754d48c6d38bf3070c648bdb02b57584e6ed033367631ea5",
       "collection_id": "32365dd8-190e-429b-b580-b0b2f11dbbdc",
       "reference_store": 677
@@ -7318,7 +7318,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "1ceea2603f2a085d99b97ef511347b115ec90efc7a97c302488cb3bd20923650",
       "collection_id": "32365dd8-190e-429b-b580-b0b2f11dbbdc",
       "reference_store": 677
@@ -7379,7 +7379,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "372943d137b461a38c0a618345880fb2e78c7d25cedf9582a36ed531a144658f",
       "collection_id": "32365dd8-190e-429b-b580-b0b2f11dbbdc",
       "reference_store": 677
@@ -7440,7 +7440,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "2bb2f982f019af789950b62e5137d8bb69b63da75f324f3c1d5b671a72200d50",
       "collection_id": "32365dd8-190e-429b-b580-b0b2f11dbbdc",
       "reference_store": 677
@@ -7501,7 +7501,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "1976fe94cc37f3a3f49a1341016287e34d2765163c2bdfa36571199aee4c2620",
       "collection_id": "32365dd8-190e-429b-b580-b0b2f11dbbdc",
       "reference_store": 677
@@ -7560,7 +7560,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "53e307ede08f9ad2363c2a3c799c9ebe1e7edc2afe730ddf258a75a99490ee78",
       "collection_id": "32365dd8-190e-429b-b580-b0b2f11dbbdc",
       "reference_store": 677
@@ -7620,7 +7620,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "8dc8a9a9a9fe08ac7063425c7e3569e4aaa12ef408e3148e058f106dd87575e0",
       "collection_id": "32365dd8-190e-429b-b580-b0b2f11dbbdc",
       "reference_store": 677
@@ -7681,7 +7681,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "8815e6e9bf194db86eff9722b90ba1b74d216985081d2ce454e73f704c59f306",
       "collection_id": "32365dd8-190e-429b-b580-b0b2f11dbbdc",
       "reference_store": 677
@@ -7740,7 +7740,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "58186e651ab2795be09cd7e5978b49dc18dee72be2114c92b1608ac643ecc2d2",
       "collection_id": "32365dd8-190e-429b-b580-b0b2f11dbbdc",
       "reference_store": 677
@@ -7799,7 +7799,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "ab48be7d05d22c400c5e2b578256e36e940bf45ff0c425a869cd7cb8e76d4246",
       "collection_id": "32365dd8-190e-429b-b580-b0b2f11dbbdc",
       "reference_store": 677
@@ -7860,7 +7860,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "e07801428d938d2dbd609c203a0d93f61d0400d8766060fda1c42d37b780f1e1",
       "collection_id": "32365dd8-190e-429b-b580-b0b2f11dbbdc",
       "reference_store": 677
@@ -7919,7 +7919,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "6f6b37efe8caa7d10bbdc08e84ac00be516e2e146796afe263c2511a21b665cc",
       "collection_id": "32365dd8-190e-429b-b580-b0b2f11dbbdc",
       "reference_store": 677
@@ -7978,7 +7978,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "5988c9de2e86c66d1d1b42e8456e5887297c1530df3c53850027239d155b68ed",
       "collection_id": "32365dd8-190e-429b-b580-b0b2f11dbbdc",
       "reference_store": 677
@@ -8037,7 +8037,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "41acda9307be72423cae8d0f3915359934a4a6e87ab9ad67a7809cae7344455d",
       "collection_id": "32365dd8-190e-429b-b580-b0b2f11dbbdc",
       "reference_store": 677
@@ -8096,7 +8096,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "be557f34527c88a449b1d357c6fcf7d2615a8fc4b950164daf5ed6edb6630ba8",
       "collection_id": "32365dd8-190e-429b-b580-b0b2f11dbbdc",
       "reference_store": 677
@@ -8155,7 +8155,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "e4f3719ca0e3c64d98b4efeb7edd5c6c4ac1e8a7919b2dcf3c702159d8b2cfc9",
       "collection_id": "32365dd8-190e-429b-b580-b0b2f11dbbdc",
       "reference_store": 677
@@ -8214,7 +8214,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "55d4788ef924053ffb3f4076874c42a6075651cd4e5a875dc67596831acd73ad",
       "collection_id": "32365dd8-190e-429b-b580-b0b2f11dbbdc",
       "reference_store": 677
@@ -8277,7 +8277,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "d6f0a5f325c85471fe455583f5b9738f08143aa18143480442d6d31a08dab1aa",
       "collection_id": "32365dd8-190e-429b-b580-b0b2f11dbbdc",
       "reference_store": 677
@@ -8340,7 +8340,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "71bfd9b6ffc8a68576efbf5fd6ca5fef4288468213912d20011439428989e05d",
       "collection_id": "32365dd8-190e-429b-b580-b0b2f11dbbdc",
       "reference_store": 677
@@ -8399,7 +8399,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "36b300034bf11003961d9ff346ae4917293fe2d2832cb7e6ed024602d03a65f9",
       "collection_id": "32365dd8-190e-429b-b580-b0b2f11dbbdc",
       "reference_store": 677
@@ -8460,7 +8460,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "cc7beb06cb8c9311d513838742185938a3f98b6f2b8784acc4d7918adf8eb3b8",
       "collection_id": "32365dd8-190e-429b-b580-b0b2f11dbbdc",
       "reference_store": 677
@@ -8521,7 +8521,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "039b6474e13b842bd367f0f4cf958d6876b382116a91a867bb2c945bbd1113d1",
       "collection_id": "32365dd8-190e-429b-b580-b0b2f11dbbdc",
       "reference_store": 677
@@ -8580,7 +8580,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "3749ecfb6a196751272df03779536d534ae2a6972fc3338e342b7d07d74eb1fe",
       "collection_id": "32365dd8-190e-429b-b580-b0b2f11dbbdc",
       "reference_store": 677
@@ -8639,7 +8639,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "c5c5213993bb8c42e70fc25e2daaed040bf4fccde5c9deb1dbcd53147586ba02",
       "collection_id": "1fb5e713-a0aa-46df-8984-67bcfdd6958d",
       "reference_store": 677
@@ -8699,7 +8699,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "88bb4052a2920031b7b182e4e5c54be3362eced670712fa3a037fe8f65393d05",
       "collection_id": "1fb5e713-a0aa-46df-8984-67bcfdd6958d",
       "reference_store": 677
@@ -8758,7 +8758,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "6a5313c3a31c9920b06fd1e2c668b47b381503ed3392d1493b4395f17ebaea02",
       "collection_id": "1fb5e713-a0aa-46df-8984-67bcfdd6958d",
       "reference_store": 677
@@ -8819,7 +8819,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "d45c90cf89a71119e33ea72cc91aa3c674c1887e807c7c00f1eb1a2b943e409f",
       "collection_id": "1fb5e713-a0aa-46df-8984-67bcfdd6958d",
       "reference_store": 677
@@ -8878,7 +8878,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "e923255ffa991fed9ff89c8e2512ef5b5f92f1a5e2d5bffebbf8d4745da55049",
       "collection_id": "1fb5e713-a0aa-46df-8984-67bcfdd6958d",
       "reference_store": 677
@@ -8937,7 +8937,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "542c51c0c193474f739fdc0865c352c8378e52e343f3ef5a50d122c590b8dec9",
       "collection_id": "1fb5e713-a0aa-46df-8984-67bcfdd6958d",
       "reference_store": 677
@@ -8996,7 +8996,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "11dd31c78716d572bd3b3e7be7529e218c3ff303beaabe11664dd65d8eda53a8",
       "collection_id": "1fb5e713-a0aa-46df-8984-67bcfdd6958d",
       "reference_store": 677
@@ -9056,7 +9056,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "7b52fd7d0df349e3a22fd7030d62eab98ae9bcaeae32783bfaf85a5c6ce83ddf",
       "collection_id": "1fb5e713-a0aa-46df-8984-67bcfdd6958d",
       "reference_store": 677
@@ -9116,7 +9116,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "eefd5906d5dbd7f6ac34989d05ecc6cfdbb11c10879ed56837e3111e950251d9",
       "collection_id": "1fb5e713-a0aa-46df-8984-67bcfdd6958d",
       "reference_store": 677
@@ -9176,7 +9176,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "ab6a0df8e8047d5d939e64f9e927d8adc33b19b7f71f77740a867b57b0d890ba",
       "collection_id": "1fb5e713-a0aa-46df-8984-67bcfdd6958d",
       "reference_store": 677
@@ -9236,7 +9236,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "2aaaae9346af3c89a4195fd7d5f38085b288ce581d6d0408dca57f24d222613f",
       "collection_id": "8ab19181-ae36-4e28-ba23-d47638e836f7",
       "reference_store": 677
@@ -9296,7 +9296,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "a60fe7adcca9fadf0f92f93bfb919020181d8c86d0fb99ee808b7434258d5b14",
       "collection_id": "8ab19181-ae36-4e28-ba23-d47638e836f7",
       "reference_store": 677
@@ -9355,7 +9355,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "dc30295c46b5c3755a7a60ea5e63afa50228a912adc5a365638d74dfe1cb1c72",
       "collection_id": "8ab19181-ae36-4e28-ba23-d47638e836f7",
       "reference_store": 677
@@ -9414,7 +9414,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "840749661498baddea2885aa5dde130ecfdca7e67d82966d95b20c68db6d3046",
       "collection_id": "3b55bc26-8dc0-471d-a473-f19985d608a7",
       "reference_store": 677
@@ -9475,7 +9475,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "377fd5ab486315024405073692faf99ea98de15050acb864ae9de524dce72c4d",
       "collection_id": "3b55bc26-8dc0-471d-a473-f19985d608a7",
       "reference_store": 677
@@ -9534,7 +9534,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "9e368425fd0e05e5772f3bda381c25c4054d883037dac74ab2ab7a3f678b0df4",
       "collection_id": "3b55bc26-8dc0-471d-a473-f19985d608a7",
       "reference_store": 677
@@ -9595,7 +9595,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "c78573f949565a278f2dd289db0c6e21c915da71853bd87c1a24e5c67482a507",
       "collection_id": "3b55bc26-8dc0-471d-a473-f19985d608a7",
       "reference_store": 677
@@ -9654,7 +9654,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "ee12e0df4176d99c40fa66cb23d33aad08a1df9fab0bf8b6db9c0ef17bb2050f",
       "collection_id": "3b55bc26-8dc0-471d-a473-f19985d608a7",
       "reference_store": 677
@@ -9713,7 +9713,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "020f2b5654e7011224f8337d8e66f1e3806d773d379f1475704849d442fb7fd9",
       "collection_id": "3b55bc26-8dc0-471d-a473-f19985d608a7",
       "reference_store": 677
@@ -9772,7 +9772,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "0052f3ef291e1a481671fe5c948b4332d474902a83759d75378fd03b58381cdc",
       "collection_id": "3b55bc26-8dc0-471d-a473-f19985d608a7",
       "reference_store": 677
@@ -9831,7 +9831,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "88bdacbbfe91c9ad87d510724598a0a7589053e31529cc88b1fd5ac37c3d2f74",
       "collection_id": "3b55bc26-8dc0-471d-a473-f19985d608a7",
       "reference_store": 677
@@ -9890,7 +9890,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "da7289970d9f6fd9ecbb30bec64e242cb300f244d5bd881498a6b5690fed148f",
       "collection_id": "3b55bc26-8dc0-471d-a473-f19985d608a7",
       "reference_store": 677
@@ -9951,7 +9951,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "7103ad07e5d7ee35c2d810f7a70eebe2a45f07a0e298f6c842b9938b65f190f5",
       "collection_id": "3b55bc26-8dc0-471d-a473-f19985d608a7",
       "reference_store": 677
@@ -10010,7 +10010,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "a83f553dd275390b53058d6de35651fcad699d2b29252474ae2457c4da0ad717",
       "collection_id": "3b55bc26-8dc0-471d-a473-f19985d608a7",
       "reference_store": 677
@@ -10069,7 +10069,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "782e63dea0137f19ec8ee101728b7b9567f42849000bfadaa6e6927364c6dc65",
       "collection_id": "3b55bc26-8dc0-471d-a473-f19985d608a7",
       "reference_store": 677
@@ -10128,7 +10128,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "ca9b21963987714d0129b46de9db735ee0589695ade0c171f3b2afee5507e76c",
       "collection_id": "3b55bc26-8dc0-471d-a473-f19985d608a7",
       "reference_store": 677
@@ -10187,7 +10187,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "0b8193f2229859385dc829964d5769931a29d4f011c60b301c4fe1b1a8c9aab0",
       "collection_id": "3b55bc26-8dc0-471d-a473-f19985d608a7",
       "reference_store": 677
@@ -10246,7 +10246,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "f36ce000339ff5644be45c35846ca374ac7d8dd72cd471d5060090c35d62fe70",
       "collection_id": "3b55bc26-8dc0-471d-a473-f19985d608a7",
       "reference_store": 677
@@ -10305,7 +10305,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "8e3d72a8e5cc4e81902af175d4a125a6629da16e066aa909175423e0132e4ca4",
       "collection_id": "3b55bc26-8dc0-471d-a473-f19985d608a7",
       "reference_store": 677
@@ -10364,7 +10364,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "42d5d8c581de2de40029a85e31ff85ec44375eea7dd28637abc2fde8d58da866",
       "collection_id": "3b55bc26-8dc0-471d-a473-f19985d608a7",
       "reference_store": 677
@@ -10423,7 +10423,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "134d4dbc4e490082d2ff027036d369b299979441e24b839a32caa0d9d92a986c",
       "collection_id": "3b55bc26-8dc0-471d-a473-f19985d608a7",
       "reference_store": 677
@@ -10482,7 +10482,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "11471d7aa7f472875bd438db160c193bf7a5f340737e12974580c9fb3c10221d",
       "collection_id": "3b55bc26-8dc0-471d-a473-f19985d608a7",
       "reference_store": 677
@@ -10541,7 +10541,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "9587493a85ca55d2d521a61ac6844ca1230d2ed1b2fa54d272fea5d521aa1808",
       "collection_id": "3b55bc26-8dc0-471d-a473-f19985d608a7",
       "reference_store": 677
@@ -10600,7 +10600,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "340c2422f370f30687b9b9ad00808bbf8d3715277b6a2ed8e37c3fc75c0a21c1",
       "collection_id": "3b55bc26-8dc0-471d-a473-f19985d608a7",
       "reference_store": 677
@@ -10660,7 +10660,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "ed70b144834c3bfba4e1485ca9096ebfe94295ed374a40ead9601a3fb044cb8a",
       "collection_id": "3b55bc26-8dc0-471d-a473-f19985d608a7",
       "reference_store": 677
@@ -10719,7 +10719,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "3a6db644c0b7f0801327e01e835384bf1113f09c42f8e663225486f5235d9cde",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -10778,7 +10778,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "c97b1747981fc84f07d24835f6d95746a4d131bfcacb106aac6ba1246bb7ea3f",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -10837,7 +10837,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "4f74d0c467226073a61f529836175ff59186cfa7ea49d1459f5a28ec61940cc5",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -10896,7 +10896,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "b86fdbef9f4e217eaebc5698c02aeaa1640f3a3512ac6c2bd5e3b6a7e235a05b",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -10955,7 +10955,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "f2b8bc31ad315fffee26d0aadab3bd8868958bb9f5dee7f58bc39b973f70ae94",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -11014,7 +11014,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "622c55db624e55d4b3df943aafd368af72ed4aef4806a906ac103386a3fa5687",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -11073,7 +11073,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "92aa3d7782ab8928b855be71a60a1099089266e05882fc6818d2c0c88be8f460",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -11132,7 +11132,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "58571af759a7743b2bbce7818f1e25cfe96a551da2b8cd90e5dab59a85ca54b7",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -11191,7 +11191,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "059c4f97f236a191cf34e851dde2a0dc590f80e23c2f48d8524089003420d779",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -11250,7 +11250,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "e419e1b84d7a22d1a3238cd5b08439659b1b82bf390cd831c443181d9175a21b",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -11309,7 +11309,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "bc51b5442696ecfd2c4cf416b99b4cce04c1877b79d73d7861e026810145a065",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -11369,7 +11369,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "75d8094d28e61ef27100ddbfdcf15638b6fcfc9e67006f70688fc102b6fadbe2",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -11428,7 +11428,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "ef23382bab7bc8ae0e19f8b981864af9e128b2ace6e39805ef09abd7785ea73b",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -11487,7 +11487,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "38635bbd033fbf3e84187e9818b017f1b46ac4a69062b376bcc88561de97b20c",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -11546,7 +11546,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "fd119a4adb006d5eb8715cb53faf09ae519e345672c8ac473f5aa088626a57d7",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -11605,7 +11605,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "76e0bd0bcc1c0f008cb1347e8061597b2c55900469c8d8dfdd8d16ea4d987bb5",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -11664,7 +11664,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "ae5fa016ad651d6024e075602a6779758a923f51f236942c10d5ff2cc9a89855",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -11723,7 +11723,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "660d017c86ec3cf6bde4a62dbcfeeaf89e558a50afc451941873290244a05fb3",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -11782,7 +11782,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "8f19990b5e0e461edeb54b7d931f7237f2ccc23ee651d585d2948bc5ab7d9d14",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -11841,7 +11841,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "3b200c9cca4633211530c3c36b7b6703d30c1cc72c987037ff93b8952065f3d0",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -11900,7 +11900,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "cbad43ac22cb7e30a4c199bf6bcf92f054f3fb72ca2148e94c656009825a3695",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -11959,7 +11959,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "b311e56926f2ab482cdb9a37c9398e7b82d7cf36778dfabf7189ab7c9337db15",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -12018,7 +12018,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "d553ffb55c8198d57ba8d9a6f6560c06a22d9113178898de8bf3d6269c13aa46",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -12077,7 +12077,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "f8b032989498f1ae45e992e6a90acf05fe1fa344d8b6db2f433441f2bd7dd84a",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -12136,7 +12136,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "f68a103a0ac33b4b67b51c770f70be9e1585462093972849e661a22a2adbac2f",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -12195,7 +12195,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "6962a4b5aed75884d2e74b004879af1454d07161ea39184ad76575c022b7b335",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -12254,7 +12254,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "5b23278976bdb7ad00e9fe1b3463a4466f788628c84156e3c2833187ce19ffbd",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -12313,7 +12313,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "aae936bff28279e87120e9932a428005477a352dc9f9bbaf5108991734d0de4f",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -12372,7 +12372,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "874f741ad9e4805d22ede56e32619a495b7c3070cbf3d872dfe20e592e0c937f",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -12431,7 +12431,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "8b0e4d268e8288afdfe112ae39ced55199b51906587eaa3f35f058da205a7e62",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -12490,7 +12490,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "07a97f53dbe3b91154756aacf214cfb4dc30a48f7231c824d60864878ff0b647",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -12549,7 +12549,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "699a0886dafbf82d5b90a9fc9ac4b6b9c0b6029684e7cfdf626a767b160e6d66",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -12608,7 +12608,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "4b5fcc941b757d9c658d8c28177aad6bd4a8b2771e07fba016fb78c265756e2b",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -12667,7 +12667,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "9dc5c1e6760b02e445bca7e0f68ee93a5f2b55c7d38a214492d4e9d15a450cb8",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -12726,7 +12726,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "952fadf56712d52fc2f26ec554b6e3f59da7fdca66851083cafc066a3fae559d",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -12785,7 +12785,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "1c66dbd6fa4f04f5b3c5a738458cc078705791d208d06c7d6c1602c975877b68",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -12844,7 +12844,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "a82f40abdaeb28de3177ee9f5f4162db923be7d074c6455eeb48f2bf7c55a27d",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -12903,7 +12903,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "42840ea1d15bee33fc78f15d61dc3c6e5f7dacd12308af6b7ba37bf3e6af9e6d",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -12962,7 +12962,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "d69420f5f1b076b684e0bfd9c283c0badb5e7c0d4e6a8fc9be68e143240868ae",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -13021,7 +13021,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "f4b1993aa544438f965fa2ad918644b79d4e42f8a235d28acaec2107faa759d4",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -13080,7 +13080,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "a71b43dd862660d5059a0ae467d433cdd21096733797e60cbfd1eb69fe79cedb",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -13139,7 +13139,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "81e9105b14f85dacb29a1b256d1bb9640c328cb849aeb47ec73aa6192781e610",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -13198,7 +13198,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "42565165f1df6814b98e89f8431357fe2216b4423b5054dfe943c74d4693c9e8",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -13258,7 +13258,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "69c05fbc18cef0909177a41ec0549c4ab3d91d58a4a04107f1964a8b5da8cbed",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -13318,7 +13318,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "b79eda0790a85e1da2591fa57340262ad010fa8ee650ca4586ec2494b6c5a065",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -13378,7 +13378,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "88c3ad4880b1b375cc753eee0a0cce880fae9ec0464359c5e813a39fe7c13657",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -13438,7 +13438,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "51223147ce8591fa40569fdddab1e6acc56860fbeaa316124f7d2f6a4dff0ce0",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -13498,7 +13498,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "d39cbc819a796a6d8e19e92c640a000707d431a9a3a60a499304112af8dab4ff",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -13558,7 +13558,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "c04ba310e0c0f45a94be2100734d19b68c5452ed740206450177cc2d86197731",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -13618,7 +13618,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "e629dbcaf1f36855aa7607b843db6910e6a2f11ee8b5cc0670745ca940e2d829",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -13678,7 +13678,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "59276e5f327eed5085ba666e9255df4cd68390c093b5c7565382aafbe4be1a62",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -13738,7 +13738,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "b1f04e88c36a7f1dc388b98b444a0b0a9480100edd232e374a31e9428f43ef69",
       "collection_id": "2a3ed369-4693-4353-8e96-13260790eae1",
       "reference_store": 677
@@ -13797,7 +13797,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "f845cb2eef5b6340b827cf89faf3253d7cafd0d529265e640ee03643c9ad2d73",
       "collection_id": "2b8f4fcf-7622-4259-bd52-e60e70254963",
       "reference_store": 677
@@ -13856,7 +13856,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "bc7a376a2c4d99c7378b71a8ea0491d6ce6ca66de94bd70ec206049f084f1ee2",
       "collection_id": "2b8f4fcf-7622-4259-bd52-e60e70254963",
       "reference_store": 677
@@ -13915,7 +13915,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "980026b58f89660b58ae3b7ade304059e7bf5ceb263d552f9351711280eda79d",
       "collection_id": "2b8f4fcf-7622-4259-bd52-e60e70254963",
       "reference_store": 677
@@ -13978,7 +13978,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "0351c3aea709f446063d6233b993b91e058c0a5ac053c198d1702b6bdbf637d9",
       "collection_id": "2b8f4fcf-7622-4259-bd52-e60e70254963",
       "reference_store": 677,
@@ -14039,7 +14039,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "f2afe6eff9a9a1eec307c2337ef657a6668e4c47ad762957ec0027900ff9fbf5",
       "collection_id": "2b8f4fcf-7622-4259-bd52-e60e70254963",
       "reference_store": 677
@@ -14098,7 +14098,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "f7ac4d0954e4101aefd9c63f51981ae782a1b12c3123be915f41427c06d11241",
       "collection_id": "2b8f4fcf-7622-4259-bd52-e60e70254963",
       "reference_store": 677
@@ -14158,7 +14158,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "5e3423ab98f31d3675bd411fa2ac3acce74febfe58df06c52259bd60f836f17b",
       "collection_id": "2b8f4fcf-7622-4259-bd52-e60e70254963",
       "reference_store": 677
@@ -14218,7 +14218,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "75aaac4bf1a8fadb7f4ec8f54dbbb80e7ad7d5868f4d0bce077414e93d0eccfc",
       "collection_id": "027295ec-25ef-4af1-85d9-257c4ca47e3e",
       "reference_store": 677
@@ -14278,7 +14278,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "89fb82eac3d5fec79a0c481ede636e7cdf4206705533caa5aeb21d6f97281e61",
       "collection_id": "027295ec-25ef-4af1-85d9-257c4ca47e3e",
       "reference_store": 677
@@ -14337,7 +14337,7 @@
         "16409",
         "21201"
       ],
-      "checked_at": "2026-10-30T16:43:39.331260+00:00",
+      "checked_at": "2026-10-31T15:46:39.331674+00:00",
       "evidence_hash": "170affe48198dd81a5b8989305392d5e755e52f7c74bb2c4ea70492b568369ba",
       "collection_id": "027295ec-25ef-4af1-85d9-257c4ca47e3e",
       "reference_store": 677
